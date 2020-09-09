@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "kitab suci"
+    },
+    {
+      "id": 2,
+      "category": "perkawinan"
+    },
+    {
+      "id": 3,
+      "category": "keluarga"
+    },
+    {
+      "id": 4,
+      "category": "iman"
+    }
+  ]
+}

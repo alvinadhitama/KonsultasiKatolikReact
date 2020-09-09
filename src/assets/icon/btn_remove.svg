@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="btn_upload" data-name="btn upload" transform="translate(-219 -328)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="15" cy="15" r="15" transform="translate(219 328)" fill="#4a4edf"/>
+    <g id="delete_forever-24px" transform="translate(224.014 333.014)">
+      <path id="Path_5" data-name="Path 5" d="M0,0H20.056V20.056H0Z" fill="none"/>
+      <path id="Path_6" data-name="Path 6" d="M5.836,16.37a1.676,1.676,0,0,0,1.671,1.671h6.685a1.676,1.676,0,0,0,1.671-1.671V6.343H5.836Zm2.056-5.95L9.07,9.242l1.78,1.772,1.772-1.772L13.8,10.421l-1.772,1.772L13.8,13.964l-1.178,1.178L10.85,13.37,9.078,15.142,7.9,13.964l1.772-1.772Zm5.883-6.585L12.939,3H8.76l-.836.836H5V5.507H16.7V3.836Z" transform="translate(-0.822 -0.493)" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M0,0H20.056V20.056H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>

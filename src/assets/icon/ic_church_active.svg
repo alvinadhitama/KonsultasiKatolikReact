@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.453" height="21.453" viewBox="0 0 21.453 21.453">
+  <g id="church" transform="translate(0)">
+    <path id="Path_172" data-name="Path 172" d="M16.253,11.725V10.177l2.193,1.381.666-1.057-7.8-4.912V2.6h1.363V1.347H11.315V0H10.066V1.347H8.771V2.6h1.294V5.633L2.338,10.5,3,11.558,5.2,10.177v1.548L0,14.809v6.644H21.453V14.809Zm-15,8.48V15.521L5.2,13.177V20.2Zm8.851,0v-4.3a.624.624,0,0,1,1.249,0v4.3Zm2.5,0v-4.3a1.873,1.873,0,0,0-3.747,0v4.3H6.445V9.39l4.279-2.7L15,9.39V20.2Zm7.606,0H16.253V13.177L20.2,15.521Z" transform="translate(0)" fill="#487cf9"/>
+    <path id="Path_173" data-name="Path 173" d="M241.051,232.662H242.3v2.5h-1.249Z" transform="translate(-230.951 -222.913)" fill="#487cf9"/>
+    <path id="Path_174" data-name="Path 174" d="M62.87,388.727h1.249v2.355H62.87Z" transform="translate(-60.236 -372.439)" fill="#487cf9"/>
+    <path id="Path_175" data-name="Path 175" d="M419.315,388.727h1.249v2.355h-1.249Z" transform="translate(-401.745 -372.439)" fill="#487cf9"/>
+  </g>
+</svg>
